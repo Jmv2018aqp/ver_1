@@ -1,21 +1,18 @@
 #EXTM3U 
 #PLAYLIST:FMP
-#EXTINF:-1 tvg-name="Wow TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png", Canal 1
+#EXTINF:-1 tvg-name="Wow TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png", Wow TV
 #EXTGRP:Canales
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Frecuencia Musical" tvg-logo="https://www.tuboxtv.com/public/files/shows/0/1/121-540x304-000000.jpg", Channel 2
+#EXTINF:-1 tvg-name="Frecuencia Musical" tvg-logo="https://www.tuboxtv.com/public/files/shows/0/1/121-540x304-000000.jpg", Frecuencia Musical
 #EXTGRP:Group1
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w760884693.m3u8
-#EXTINF:-1 tvg-name="Frecuencia Musical Movies " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-320x180-000000.jpg", Channel 3
+#EXTINF:-1 tvg-name="Frecuencia Musical Movies " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-320x180-000000.jpg", Frecuencia Musical Movies
 #EXTGRP:Group1
 https://5c21f7ec1999d.streamlock.net/8070/8070/chunklist_w13039731.m3u8
-#EXTINF:-1 tvg-name="ZEE Mundo " tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png", Channel 4
+#EXTINF:-1 tvg-name="ZEE Mundo " tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png", ZEE Mundo
 #EXTGRP:Group1
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="TV Peru " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png", Channel 4
-#EXTGRP:Group1
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-name="TV Peru " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png", Channel 4
+#EXTINF:-1 tvg-name="TV Peru " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png", TV Peru
 #EXTGRP:Group1
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-name="TV Peru Noticias " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png", Channel 5
@@ -23,7 +20,7 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-name="IPE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Identidad_Peruana_ipe_2016.png", Channel 6
 #EXTGRP:Group1
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-name="Willax " tvg-logo="https://willax.tv/wp-content/uploads/2020/07/Logo-Willax-Optimismo.png", Channel 7
 #EXTGRP:Group1
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuzP2wJ6gKD_jq2yzW22-qY)/dm/3/x7x4dgx/s/live-2.m3u8
@@ -44,5 +41,3 @@ https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=ey
 #EXTINF:-1 tvg-name="TV Cosmos  " tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cosmos-Per%C3%BA-en-vivo-Online.png", Channel 12
 #EXTGRP:Group1
 https://59d39900ebfb8.streamlock.net/str15live/str15live/chunklist_w1543467243.m3u8
-
-
