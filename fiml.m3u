@@ -1,1 +1,7 @@
-b
+#EXTM3U
+#EXTINF:-1 tvg-name="Comando Especial 2 (2014)" tvg-logo="https://pics.filmaffinity.com/Comando_especial_2-390756759-large.jpg", Comando Especial 2 (2014)
+#EXTGRP:Peliculas
+http://tux-vod.dynu.com/peliculas/720/22%20jump%20street.mkv
+#EXTINF:-1 tvg-name="Star Trek: En la Oscuridad(2013)" tvg-logo="https://pics.filmaffinity.com/Star_Trek_En_la_oscuridad-429937867-large.jpg", Star Trek: En la Oscuridad(2013)
+#EXTGRP:Peliculas
+http://ns5306-24.net/peli293.ip-149-5culas/720/en%20la%20oscuridad.mkv
