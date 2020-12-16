@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 1 SD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/524.png" group-title="CINEMA",CINEMA: HBO 1 
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 2 SD" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/525.png" group-title="CINEMA",CINEMA: HBO 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 2 SD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/525.png" group-title="CINEMA",CINEMA: HBO 2 SD
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/22.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Family SD" tvg-logo="" group-title="CINEMA",CINEMA: HBO Family SD
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/23.m3u8
