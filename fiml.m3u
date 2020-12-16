@@ -1,10 +1,135 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Comando Especial 2 (2014)" tvg-logo="https://pics.filmaffinity.com/Comando_especial_2-390756759-large.jpg", Comando Especial 2 (2014)
-#EXTGRP:Peliculas
-http://tux-vod.dynu.com/peliculas/720/22%20jump%20street.mkv
-#EXTINF:-1 tvg-name="Star Trek: En la Oscuridad(2013)" tvg-logo="https://pics.filmaffinity.com/Star_Trek_En_la_oscuridad-429937867-large.jpg", Star Trek: En la Oscuridad(2013)
-#EXTGRP:Peliculas
-http://ns5306-24.net/peli293.ip-149-5culas/720/en%20la%20oscuridad.mkv
-#EXTINF:-1 tvg-name="Ace Ventura, Operacion Africa(1995)" tvg-logo="https://pics.filmaffinity.com/Ace_Ventura_Operaci_n_frica-844202018-large.jpg", Ace Ventura, Operacion Africa(1995)
-#EXTGRP:Peliculas
-http://tux-vod.dynu.com/peliculas/720/ace%20ventura%20when%20nature%20calls.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 1 SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 2 SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Family SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Family SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO MUNDI" tvg-logo="" group-title="CINEMA",CINEMA: HBO MUNDI
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Plus SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO XTREAME SD *" tvg-logo="" group-title="CINEMA",CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: MULTICINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: MULTIPREMIER SD*" tvg-logo="" group-title="CINEMA",CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: PARAMOUNT SD*" tvg-logo="" group-title="CINEMA",CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: SPACE SD*" tvg-logo="" group-title="CINEMA",CINEMA: SPACE SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: STUDIO UNIVERSAL SD*" tvg-logo="" group-title="CINEMA",CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: SYFY*" tvg-logo="" group-title="CINEMA",CINEMA: SYFY*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: TNT SD*" tvg-logo="" group-title="CINEMA",CINEMA: TNT SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX ACTION SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX CLASICO SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX COMEDY SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX FAMYLY SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX MOVIES SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX SERIES SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: GOLDEN PREMIER 1" tvg-logo="" group-title="CINEMA",CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINE LATINO SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINEMAX SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CLARO CINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: DE PELICULA PLUS" tvg-logo="" group-title="CINEMA",CINEMA: DE PELICULA PLUS
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: DE PELICULA TP MX" tvg-logo="" group-title="CINEMA",CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: GOLDEN SD*" tvg-logo="" group-title="CINEMA",CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  TCM SD*" tvg-logo="" group-title="CINEMA",CINEMA:  TCM SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: AMC SD*" tvg-logo="" group-title="CINEMA",CINEMA: AMC SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Discovery Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Discovery Kids SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney JR SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney JR SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney XD SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney XD SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nat Geo Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nat Geo Kids SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nick Jr SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nick Jr SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nickelodeon SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nickelodeon SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: TOONCAST TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: TOONCAST TP MX
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: COMEDY CENTRAL HD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: COMEDY CENTRAL HD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: DHE SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: DHE SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: DISTRITO COMEDIA TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: E! SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: E! SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: EL GOURMET SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: EL GOURMET SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: TL NOVELAS TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: TL NOVELAS TP MX
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: AXN SD*" tvg-logo="" group-title="SERIES",SERIE: AXN SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: EURO Channel SD*" tvg-logo="" group-title="SERIES",SERIE: EURO Channel SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FOX SD *" tvg-logo="" group-title="SERIES",SERIE: FOX SD *
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FX Movies SD*" tvg-logo="" group-title="SERIES",SERIE: FX Movies SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FX SD*" tvg-logo="" group-title="SERIES",SERIE: FX SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FXM TP MX" tvg-logo="" group-title="SERIES",SERIE: FXM TP MX
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: SONY SD*" tvg-logo="" group-title="SERIES",SERIE: SONY SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: TNT SERIES*" tvg-logo="" group-title="SERIES",SERIE: TNT SERIES*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: UNIVERSAL TV SD*" tvg-logo="" group-title="SERIES",SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIES: WARNER SD*" tvg-logo="" group-title="SERIES",SERIES: WARNER SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ANIMAL PLANET SD*" tvg-logo="" group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY CHANNEL SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY CHANNEL SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY CIVILIZATION SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY CIVILIZATION SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY H&H SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY H&H SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY SCIENCE SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY SCIENCE SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY THEATHER HD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY THEATHER HD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY TURBO SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY TURBO SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: H2 SD*" tvg-logo="" group-title="CULTURA",CULTURA: H2 SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: HISTORY SD*" tvg-logo="" group-title="CULTURA",CULTURA: HISTORY SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ID SD*" tvg-logo="" group-title="CULTURA",CULTURA: ID SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NAT GEO SD*" tvg-logo="" group-title="CULTURA",CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/44.m3u8v
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NATGEO WILD  SD*" tvg-logo="" group-title="CULTURA",CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: TLC SD*" tvg-logo="" group-title="CULTURA",CULTURA: TLC SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE GALAVISION" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE GALAVISION
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: ANTENA3 SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: ANTENA3 SD*
+http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/49.m3u8
