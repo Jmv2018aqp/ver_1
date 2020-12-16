@@ -5,7 +5,7 @@ http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/21.m3u8
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/22.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Family SD" tvg-logo="" group-title="CINEMA",CINEMA: HBO Family SD
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO MUNDI" tvg-logo="" group-title="CINEMA",CINEMA: HBO MUNDI
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO MUNDI" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/Mubdi.jpg" group-title="CINEMA",CINEMA: HBO MUNDI
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Plus SD" tvg-logo="" group-title="CINEMA",CINEMA: HBO Plus SD
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/25.m3u8
