@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 1 SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo-opt.svg" group-title="CINEMA",CINEMA: HBO  
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 1 SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo-opt.svg" group-title="CINEMA",CINEMA: HBO  
+http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/21
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 2 SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo2.svg" group-title="CINEMA",CINEMA: HBO 2 
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/22.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Family SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo-fam.svg" group-title="CINEMA",CINEMA: HBO Family 
