@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 1 SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo-opt.svg" group-title="CINEMA",CINEMA: HBO  
+#EXTINF:-1 tvg-id="HBO.pe" tvg-name="CINEMA: HBO 1 SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo-opt.svg" group-title="CINEMA",CINEMA: HBO  
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 1 SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo-opt.svg" group-title="CINEMA",CINEMA: HBO  
 http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/21
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 2 SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo2.svg" group-title="CINEMA",CINEMA: HBO 2 
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINEMA: HBO 2 SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo2.svg" group-title="CINEMA",CINEMA: HBO 2 
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Family SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo-fam.svg" group-title="CINEMA",CINEMA: HBO Family 
+#EXTINF:-1 tvg-id="HBOFamilyE.mx" tvg-name="CINEMA: HBO Family SD" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo-fam.svg" group-title="CINEMA",CINEMA: HBO Family 
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO MUNDI" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/hbo-mundi2.svg" group-title="CINEMA",CINEMA: HBO MUNDI
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/24.m3u8
@@ -21,7 +21,7 @@ http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/28.m3u8
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: SPACE SD" tvg-logo="" group-title="CINEMA",CINEMA: SPACE SD
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA: STUDIO UNIVERSAL SD" tvg-logo="" group-title="CINEMA",CINEMA: STUDIO UNIVERSAL SD
+#EXTINF:-1 tvg-id="UniversalHD.pe" tvg-name="CINEMA: STUDIO UNIVERSAL SD" tvg-logo="" group-title="CINEMA",CINEMA: STUDIO UNIVERSAL SD
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA: SYFY" tvg-logo="" group-title="CINEMA",CINEMA: SYFY
 http://zufreelist.net:8080/live/xJh7evPFUZ/cCvj3K4k4I/32.m3u8
